@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dai+Banna+SIL&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+
+.Title {
+  font-family: 'Dai Banna SIL', sans-serif;
+}
